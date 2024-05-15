@@ -1,0 +1,12 @@
+.nav
+{
+	width:100%;
+	float:center;
+	padding:5px;
+	color: skyblue;
+}
+.alert-primary
+{
+	background: skyblue;
+	text-align: center;
+}
